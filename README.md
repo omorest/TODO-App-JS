@@ -2,6 +2,8 @@
 
 Proyecto de aprendizaje de Javascript usando webpack
 
+> Puedes ver la aplicación [aquí](https://omorest.github.io/Todo-App-JS/)
+
 
 ### Notas
 
